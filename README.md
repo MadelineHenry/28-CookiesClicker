@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# My Cookies clicker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](http://forthebadge.com)
 
-## Available Scripts
+## Project infos 
 
-In the project directory, you can run:
+- **Type of challenge**: learning
+- **Duration**: 3 days
+- **Solo challenge**
+- **Deadline**: 25/02/2021 17:00 
 
-### `npm start`
+## What is this project about :grey_question:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This is a web development exercise carried out with the BECODE training to learn React. We will use HTML, CSS and javascript.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Cookie Clicker is an incremental game created by French programmer Julien "Orteil" Thiennot in 2013. The user initially clicks on a big cookie on the screen, earning a single cookie per click. They can then spend their earned cookies upon purchasing assets such as "cursors" and other "buildings" that automatically produce cookies. Upgrades are also available and can improve the efficiency of clicks and buildings, among many other mechanics that allow the user to earn cookies in different ways.
 
-### `npm test`
+## Objectif
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Create a functional prototype of a Cookies clicker game with React.js 
+- Understand the basic principles of state management
 
-### `npm run build`
+### Pre-requisite :bowtie:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+What you need to get started ...
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- basics in **HTML**
+- basics in **CSS**
+- basics in **JavaScript**
+- A good ability to do internet research on your own :muscle: 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Visual
 
-### `npm run eject`
+![Visual](https://github.com/MadelineHenry/28-cookiesclicker/blob/main/src/imgs/cookiesclicker.png)
+ 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Auteur
+* **Madeline** _alias_ [@MadelineHenry](https://github.com/MadelineHenry)
