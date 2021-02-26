@@ -29,7 +29,7 @@ class App extends React.Component {
     render() {
         return (
             <>
-                <h1>Welcome to Cookies Cliker</h1>
+                <h1>Welcome to <strong>Cookies Cliker</strong></h1>
                 <main id="main">
                     <Cookie 
                     onUpdateCookies={this.incrementCookie} 

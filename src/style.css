@@ -1,5 +1,5 @@
 body {
-  font-family: "Open sans";
+  font-family: "Oswald";
   color: #2e0f0fa2;
   display: flex;
   justify-content: center; 
@@ -9,7 +9,11 @@ body {
 h1{
   font-size: 60px;
   margin:20px 0 50px;  
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Parisienne', cursive;
+}
+
+h1 strong{
+  font-family: 'Yellowtail', cursive;
 }
 
 h3{
