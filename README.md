@@ -31,7 +31,7 @@ What you need to get started ...
 
 ## Visual
 
-![Visual](https://github.com/MadelineHenry/28-cookiesclicker/blob/main/src/imgs/cookiesclicker.png)
+![Visual](https://github.com/MadelineHenry/28-cookiesclicker/src/imgs/cookiesclicker.png)
  
 
 ## Auteur
