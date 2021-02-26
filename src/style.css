@@ -7,16 +7,30 @@ body {
 }
 
 h1{
-  font: 20px;
-  margin:20px 0 35px;  
+  font-size: 60px;
+  margin:20px 0 50px;  
 }
 
 h3{
-  margin:0 5px 8px 5px ;
+  font-size: 35px;
+  margin:0 10px 16px 10px ;
 }
 
 p{
-  margin: 3px 0 3px;
+  font-size: 20px;
+  margin: 6px 0 6px;
+}
+
+#imgCookie{
+  height: 300px;
+  width: 300px;
+  padding-top: 20px;
+}
+
+.cookieCount p{
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 20px;
 }
 
 main{
@@ -27,21 +41,21 @@ main{
 }
 
 #sideBar{
-  width: 200px;
-  padding: 10px;
-  margin: 0 100px 0;
-  font-size: 12px;
+  width: 300px;
+  padding: 20px;
+  margin: 0 200px 0;
+  font-size: 22px;
   background-color: #332b2b09;
 }
 
 button{
-  font-size: 10px;
+  font-size: 20px;
   color: #332b2ba2;
   background-color: rgb(240, 204, 128);
   border: 0.1px solid #332b2ba2;
   border-radius: 10px;
-  padding: 2px 40px;
-  margin: 5px 0 15px;
+  padding: 4px 70px;
+  margin: 10px 0 30px;
 }
 
 button:hover{

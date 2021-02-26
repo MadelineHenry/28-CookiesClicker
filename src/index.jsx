@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import Cookie from './components/Cookie'
 import SideBar from './components/SideBar';
 import Buildings from './components/Buildings';
-
+import './style.css';
 
 class App extends React.Component {
     state = {
